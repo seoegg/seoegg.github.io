@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55.999" height="55.999" viewBox="0 0 55.999 55.999">
+  <g id="Group_654" data-name="Group 654" transform="translate(-245 -649)">
+    <g id="Group_508" data-name="Group 508" transform="translate(245 649)">
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M14,28h0V22a8.009,8.009,0,0,0-8-8H0A14,14,0,0,1,23.9,4.1,14,14,0,0,1,14,28Z" transform="translate(27.998 0)" fill="#393852"/>
+      <path id="Subtraction_2" data-name="Subtraction 2" d="M14,28A14,14,0,0,1,4.1,4.1,13.908,13.908,0,0,1,14,0V6a8.009,8.009,0,0,0,8,8h6A14,14,0,0,1,14,28Z" transform="translate(0 27.999)" fill="#393852"/>
+      <g id="Group_505" data-name="Group 505" transform="translate(13.999 13.999)">
+        <path id="Intersection_2" data-name="Intersection 2" d="M0,14A14,14,0,0,1,14,0V6a8,8,0,0,1-8,8Z" transform="translate(14 14)" fill="#393852"/>
+        <path id="Intersection_1" data-name="Intersection 1" d="M0,8A8,8,0,0,1,8,0h6A14,14,0,0,1,0,14Z" transform="translate(0 0)" fill="#393852"/>
+      </g>
+    </g>
+  </g>
+</svg>
